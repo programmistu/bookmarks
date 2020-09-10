@@ -42,3 +42,39 @@
     https://github.com/officedev/open-xml-sdk
     https://github.com/JanKallman/EPPlus
     https://github.com/ClosedXML/ClosedXML
+
+## Боты
+    https://github.com/Charca/bootbot - фейсбук чат бот
+    https://github.com/botpress/botpress - универсальный на js
+    https://github.com/howdyai/botkit - заготовки для ботов на js
+    https://hubot.github.com/ - бот на js, самостоятельное приложение
+    https://github.com/botman/botman - php bot, including Slack, Telegram, Microsoft Bot Framework, Nexmo, HipChat, Facebook Messenger and WeChat.
+
+## Браузер
+    https://github.com/Cognifide/bobcat - надстройка над selenium + appium. Java
+
+    https://github.com/veyon/veyon/releases - управление компьютерами
+
+    PHP Plugin - Plugin for Test Automation using PHP as a development language.
+    Selenium Plugin - Plugin to handle browser automation using Selenium.
+    Proxy Plugin - Plugin to handle a proxy server using Browsermob-proxy.
+    Appium Plugin - Plugin to handle mobile automation using Appium.
+    AVD Plugin - Plugin to manage Android Virtual Devices.
+    Gradle Plugin - Plugin for running gradle tasks.
+
+## Мобильные устройства
+    http://appium.io/ Appium is an open source test automation framework for use with native, hybrid and mobile web apps.
+    It drives iOS, Android, and Windows apps using the WebDriver protocol.
+    https://github.com/appium/appium
+    https://github.com/go-vgo/robotgo
+    https://github.com/AirtestProject/Airtest
+    https://github.com/dtmilano/AndroidViewClient
+    https://github.com/AirtestProject/Poco  - supports mainstream game engines, including: Unity3D, cocos2dx-js, cocos2dx-lua, Android/iOS native apps
+
+## Crypto
+    https://github.com/ccxt/ccxt - CryptoCurrency eXchange Trading Library
+
+## разработка сайтов
+    https://github.com/cytopia/devilbox - разработка сайтов
+
+
