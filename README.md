@@ -77,4 +77,15 @@
 ## разработка сайтов
     https://github.com/cytopia/devilbox - разработка сайтов
 
+## ArangoDB driver
+
+### PHP
+https://github.com/arangodb/arangodb-php
+
+### Python
+https://github.com/tariqdaouda/pyArango
+https://github.com/Joowani/python-arango
+
+### .NET
+https://www.arangoclient.net/
 
