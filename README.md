@@ -80,12 +80,14 @@
 ## ArangoDB driver
 
 ### PHP
-https://github.com/arangodb/arangodb-php
+    https://github.com/arangodb/arangodb-php
 
 ### Python
-https://github.com/tariqdaouda/pyArango
-https://github.com/Joowani/python-arango
+
+    https://github.com/tariqdaouda/pyArango
+    https://github.com/Joowani/python-arango
 
 ### .NET
-https://www.arangoclient.net/
+
+    https://www.arangoclient.net/
 
